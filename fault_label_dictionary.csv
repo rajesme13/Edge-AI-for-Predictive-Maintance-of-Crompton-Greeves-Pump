@@ -1,0 +1,10 @@
+fault_code,fault_type,severity_levels
+0,normal,0
+1,bearing_wear,"1,2,3"
+2,shaft_misalignment,"1,2,3"
+3,rotor_or_impeller_imbalance,"1,2,3"
+4,cavitation,"1,2,3"
+5,dry_run_or_low_suction,"1,2,3"
+6,overload,"1,2,3"
+7,phase_voltage_imbalance,"1,2,3"
+8,winding_overheating,"1,2,3"
